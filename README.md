@@ -1,7 +1,7 @@
 # Code-Assembly-
 **I.Xử lý về số học**
 
-```
+>
 1.Viết chương trình hợp ngữ với chức năng sau:
 
   a.	Nhập vào mã sinh viên và hiển thị đúng tên của mình.
@@ -37,9 +37,9 @@
   a.	Nhập vào mã sinh viên và hiển thị đúng tên của mình. 
 
   b.	Nhập vào một số hệ thập phân hiển thị các giá trị đổi ra cơ số 16 (hexa) và nhị phân (16 bit)
-```
+
 **II.	Xử lý chuỗi ký tự**
-```
+>
 7.	Viết chương trình hợp ngữ với chức năng sau:
 
   a.	Nhập vào mã sinh viên và hiển thị đúng đúng tên của mình. 
@@ -70,9 +70,9 @@
   
   b.	Nhập vào một chuỗi, đếm số ký tự trong chuỗi
 
-```
+
 **III.	Xử lý tệp tin**
-```
+>
 12.	Viết chương trình hợp ngữ với chức năng sau:
 
   a.	Nhập vào họ tên sinh viên và hiển thị đúng MSV của mình. 
@@ -97,5 +97,4 @@
   
   b.	Thay đổi tên một tệp tin (.txt) đã tạo sẵn trong máy tính.
 
-```
 
