@@ -7,7 +7,7 @@ inchuoi macro chuoi
 .stack 100h
 .data 
     msg1 db "Nhap MSV: $"
-    msg2 db 10,13,"Ho ten sinh vien: Nguyen Thi Quynh$$"
+    msg2 db 10,13,"Ho ten sinh vien: Nguyen Thi Quynh$"
     msg3 db 10,13,"!!!Thong tin sai$"
     xdong db 10,13,"$"
     msv1 db "AT160639" 
