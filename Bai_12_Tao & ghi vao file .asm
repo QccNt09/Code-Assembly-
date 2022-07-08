@@ -9,6 +9,7 @@ endm
     filename db 30 dup(?),'$'
     msg1 db "Nhap ten file: $"
     msg2 db 10,13,"Nhap noi dung file: $" 
+    msg3 db 10,13,"Nhap thanh cong$"
     str db 100,?,100 dup("$")
     pf dw ?
 .code
@@ -45,7 +46,11 @@ nhap_ndfile:
     int 21h 
     mov ah,3eh
     mov bx,pf
-    int 21h        
+    int 21h  
+    inchuoi msg3
+thoat: 
+    mov ah,4ch
+    int 21h     
     main endp
 end main   
 
